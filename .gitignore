@@ -1,1 +1,3 @@
 .DS_STORE
+__init__.py
+__pycache__/
